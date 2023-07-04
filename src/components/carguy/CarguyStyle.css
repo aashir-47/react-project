@@ -1,0 +1,10 @@
+.Imgcarguy {
+  padding: 2rem 0;
+}
+.Imgcarguy img {
+  height: 80vh;
+  object-fit: cover;
+}
+.thumbs-wrapper {
+  display: none;
+}
