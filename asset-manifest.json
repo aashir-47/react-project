@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-project/static/css/main.1213541c.css",
+    "main.js": "/react-project/static/js/main.fa3c84f8.js",
+    "static/media/beachvideo.mp4": "/react-project/static/media/beachvideo.5ecd1fae313f97b8b99f.mp4",
+    "static/media/beach5.jpg": "/react-project/static/media/beach5.62067ca2095e26281013.jpg",
+    "static/media/beach2.jpg": "/react-project/static/media/beach2.a45b0f11023b8d564eed.jpg",
+    "static/media/beach6.jpg": "/react-project/static/media/beach6.076a84276c62ea3351b3.jpg",
+    "static/media/beach4.jpg": "/react-project/static/media/beach4.71e4352dc5033fcf564e.jpg",
+    "static/media/beach7.jpg": "/react-project/static/media/beach7.d2d7767bc9417df20985.jpg",
+    "static/media/beach3.jpg": "/react-project/static/media/beach3.65343697c07b8440ff44.jpg",
+    "static/media/couple.jpg": "/react-project/static/media/couple.f51ff2958dd46d7cafbf.jpg",
+    "index.html": "/react-project/index.html",
+    "main.1213541c.css.map": "/react-project/static/css/main.1213541c.css.map",
+    "main.fa3c84f8.js.map": "/react-project/static/js/main.fa3c84f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1213541c.css",
+    "static/js/main.fa3c84f8.js"
+  ]
+}
